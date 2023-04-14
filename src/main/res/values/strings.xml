@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab Exam</string>
+    <string name="personal_information_database">Personal Information Database</string>
+    <string name="update_data">Update Data</string>
+</resources>
